@@ -1,4 +1,4 @@
-#A Solution for Redmart's Skiing In Singapore
+# A Solution for Redmart's Skiing In Singapore
 
 To run the script, you need nodejs installed.
 
